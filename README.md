@@ -29,6 +29,8 @@ Tengo experiencia desarrollando pipelines de datos, modelos estadísticos, bases
 Análisis y mitigación de sesgos en modelos de clasificación aplicados al dataset [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data), con foco en cuestiones de equidad de género en la asignación de créditos
 bancarios.
 
+📌 **[Diseño de datawarehouse y ETL para caso de negocio de pulseras inteligentes](https://github.com/Gerardo1909/tp_final_pulseras_inteligentes.git)**  
+Implementación de un sistema analítico realista utilizando un enfoque políglota, combinando al menos un motor SQL y un motor NoSQL. Diseño de una arquitectura de inteligencia de negocios (BI), incluyendo un Data Warehouse y la construcción de dashboards para realizar análisis de datos. El trabajo integra procesos ETL, modelado dimensional de tablas, y técnicas de minería de datos, simulando un caso empresarial completo.
 
 
 ## 🌟 Proyectos destacados
