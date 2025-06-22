@@ -25,20 +25,16 @@ Tengo experiencia desarrollando pipelines de datos, modelos estadísticos, bases
 
 ## 🚧 Actualmente trabajando en
 
-📌 **[Análisis de equidad en el acceso a préstamos bancarios](https://github.com/Gerardo1909/tpfinal_equidad.git)**  
-Análisis y mitigación de sesgos en modelos de clasificación aplicados al dataset [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data), con foco en cuestiones de equidad de género en la asignación de créditos
-bancarios.
-
-📌 **[Diseño de datawarehouse y ETL para caso de negocio de pulseras inteligentes](https://github.com/Gerardo1909/tp_final_pulseras_inteligentes.git)**  
-Implementación de un sistema analítico realista utilizando un enfoque políglota, combinando al menos un motor SQL y un motor NoSQL. Diseño de una arquitectura de inteligencia de negocios (BI), incluyendo un Data Warehouse y la construcción de dashboards para realizar análisis de datos. El trabajo integra procesos ETL, modelado dimensional de tablas, y técnicas de minería de datos, simulando un caso empresarial completo.
+📌 **[FeelBack - Aplicación Flask para análisis de sentimientos](https://github.com/Gerardo1909/FeelBack)**  
+Aplicación web que combina inteligencia artificial y diseño intuitivo para ofrecer análisis de sentimientos en tiempo real. Los usuarios pueden interactuar con un modelo de aprendizaje automático entrenado con PyTorch a través de una interfaz tipo chat, obteniendo clasificaciones emocionales como positiva, negativa o neutral. Además, la aplicación permite a los usuarios gestionar su historial de análisis y explorar sus resultados de manera organizada.
 
 
 ## 🌟 Proyectos destacados
 
 | Proyecto | Descripción |
 |---------|-------------|
-| 📊 [Argentina Ideal - Infraestructura](https://github.com/Gerardo1909/Argentina_Ideal_Infra) | Simulación de una empresa distribuidora de alimentos con arquitectura de datos en GCP, automatización de cargas y visualización en Looker Studio. |
-| 🛰️ [Argos - Organización espacial](https://github.com/Gerardo1909/argos_SQL_tpFinal) | Modelado y desarrollo de base de datos en Supabase con triggers, funciones y un DER completo para una organización espacial ficticia. |
+| 📊 [Diseño de datawarehouse y ETL para caso de negocio de pulseras inteligentes](https://github.com/Gerardo1909/tp_final_pulseras_inteligentes.git) | Implementación de gestión y análisis de datos utilizando un enfoque políglota, combinando un motor SQL y un motor NoSQL. Diseño de una arquitectura de inteligencia de negocios (BI), incluyendo un Data Warehouse y la construcción de dashboards para realizar análisis de datos. El trabajo integra procesos ETL, modelado dimensional de tablas, y técnicas de minería de datos, simulando un caso empresarial completo. |
+| ⚖️ [Análisis de equidad en el acceso a préstamos bancarios](https://github.com/Gerardo1909/tpfinal_equidad.git) | Análisis y mitigación de sesgos en modelos de clasificación aplicados al dataset [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data), con foco en cuestiones de equidad de género en la asignación de créditos bancarios. |
 | 🏀 [Predicción MVP NBA](https://github.com/Gerardo1909/proyecto_nba_mvp) | Análisis de datos históricos de la NBA para predecir ganadores del MVP usando aprendizaje supervisado. |
 | 🧊 [Cubo OLAP en Java](https://github.com/Gerardo1909/CuboOLAP_Java) | Librería para manipulación de cubos OLAP en Java, siguiendo buenas prácticas de POO y patrones de diseño. |
 
