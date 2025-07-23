@@ -5,7 +5,7 @@
 
 **Analista en Ciencia de Datos** | Apasionado por la programación, la estadística y el desarrollo de soluciones analíticas basadas en datos.  
 📍 Buenos Aires, Argentina  
-🎓 Estudiante avanzado en Ciencia de Datos (55% carrera) - Promedio: 8.83  
+🎓 Estudiante avanzado en Ciencia de Datos (60% carrera) - Promedio: 8.86  
 📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
 
 ## 🧠 Sobre mí
@@ -26,7 +26,7 @@ Tengo experiencia desarrollando pipelines de datos, modelos estadísticos, bases
 ## 🚧 Actualmente trabajando en
 
 📌 **[FeelBack - Aplicación Flask para análisis de sentimientos](https://github.com/Gerardo1909/FeelBack)**  
-Aplicación web que combina inteligencia artificial y diseño intuitivo para ofrecer análisis de sentimientos en tiempo real. Los usuarios pueden interactuar con un modelo de aprendizaje automático entrenado con PyTorch a través de una interfaz tipo chat, obteniendo clasificaciones emocionales como positiva, negativa o neutral. Además, la aplicación permite a los usuarios gestionar su historial de análisis y explorar sus resultados de manera organizada.
+FeelBack es un proyecto personal que consite en una aplicación web simple tipo chat construida con Flask y un modelo de HuggingFace que permite a los usuarios analizar el sentimiento de textos en tiempo real.
 
 
 ## 🌟 Proyectos destacados
