@@ -5,7 +5,7 @@
 
 **Analista en Ciencia de Datos** | Apasionado por la programación, la estadística y el desarrollo de soluciones analíticas basadas en datos.  
 📍 Buenos Aires, Argentina  
-🎓 Estudiante avanzado en Ciencia de Datos (60% carrera) - Promedio: 8.86  
+🎓 Estudiante avanzado en Ciencia de Datos (70% carrera) - Promedio: 8.88  
 📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
 
 ## 🧠 Sobre mí
