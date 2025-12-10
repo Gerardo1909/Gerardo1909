@@ -16,7 +16,7 @@ Soy analista de datos con experiencia práctica en diseño de pipelines ETL, mod
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,docker,gcp,mysql,postgres,mongodb,redis,supabase,scikitlearn,latex, fastapi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,git,docker,gcp,mysql,postgres,mongodb,redis,supabase,scikitlearn,notion,flask,fastapi,githubactions,vscode&perline=6" />
   </a>
 </p>
 
