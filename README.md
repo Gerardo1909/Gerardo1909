@@ -5,7 +5,7 @@
 
 **Analista de Datos** | Python + SQL | Analizando más allá de lo que muestra la información.  
 📍 Buenos Aires, Argentina  
-🎓 Estudiante avanzado en Ciencia de Datos (UNSAM) - **70% carrera** - Promedio: 9.00  
+🎓 Estudiante avanzado en Ciencia de Datos (UNSAM) - **75% carrera** - Promedio: 9.00  
 📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
 
 ## 🧠 Sobre mí
