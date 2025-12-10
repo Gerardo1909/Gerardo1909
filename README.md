@@ -16,7 +16,7 @@ Soy analista de datos con experiencia práctica en diseño de pipelines ETL, mod
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,docker,gcp,mysql,postgres,mongodb,redis,supabase,scikitlearn,latex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,git,docker,gcp,mysql,postgres,mongodb,redis,supabase,scikitlearn,latex, fastapi&perline=6" />
   </a>
 </p>
 
@@ -25,6 +25,9 @@ Soy analista de datos con experiencia práctica en diseño de pipelines ETL, mod
 📌 **[agentedefutbol - Agente LLM tipo chatbot integrado con Langchain y FastAPI para responder preguntas sobre fútbol](https://github.com/Gerardo1909/agentedefutbol)**  
 agentedefutbol es un proyecto en actual desarrollo que consiste en un agente tipo chatbot que responde preguntas con respecto al mundo del futbol en tiempo real y realiza 
 recomendaciones inteligentes sobre partidos y jugadores a seguir.
+
+📌 **[MIT LIFT Lab & Argentina Collaborative Project 2025 - EVALUACIÓN DE índice de digitalización y desempeño de pequeñas y medianas empresas](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)**  
+Proyecto en colaboración con el Instituto Tecnológico de Massachusetts (MIT por sus siglas en inglés) que consiste en relevamiento de encuestas a pequeños locales para obtener información sobre economía y nivel de digitalización. En el repositorio se muestra el procesamiento realizado a la información cruda obtenida a través de las encuestas y la transformación aplicada utilizando técnicas de NLP y diferentes librerías de python para tratar datos geográficos y datos faltantes.
 
 ## 🌟 Proyectos destacados
 
