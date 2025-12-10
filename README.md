@@ -3,17 +3,14 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gerardo1909.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/Gerardo1909.svg?style=social&label=Follow)](https://github.com/Gerardo1909?tab=followers)
 
-**Analista en Ciencia de Datos** | Apasionado por la programación, la estadística y el desarrollo de soluciones analíticas basadas en datos.  
+**Analista de Datos** | Python + SQL | Analizando más allá de lo que muestra la información.  
 📍 Buenos Aires, Argentina  
-🎓 Estudiante avanzado en Ciencia de Datos (70% carrera) - Promedio: 8.88  
+🎓 Estudiante avanzado en Ciencia de Datos (UNSAM) - **70% carrera** - Promedio: 9.00  
 📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
 
 ## 🧠 Sobre mí
 
-Soy una persona curiosa, con pensamiento crítico y capacidad de liderazgo en proyectos académicos y de otra índole. Me enfoco en aplicar técnicas de ciencia de datos para resolver problemas complejos, 
-comunicar resultados de forma efectiva y aportar valor a través del análisis.  
-
-Tengo experiencia desarrollando pipelines de datos, modelos estadísticos, bases de datos SQL y NoSQL, tableros de visualización en Looker Studio y PowerBI, así como trabajando con Python y Java en estructuras de datos complejas.
+Soy analista de datos con experiencia práctica en diseño de pipelines ETL, modelado de Data Warehouse y desarrollo de dashboards con Power BI. Manejo avanzado de Python (pandas, numpy, pydantic), SQL (PostgreSQL) y NoSQL (MongoDB). Tengo experiencia en integración de datos, control de calidad y despliegues en entornos con Docker y FastAPI. Inglés profesional (C2). Busco roles de Data Analyst / BI / ETL Developer en entornos de producto o consultora tecnológica.
 
 ## ⚙️ Tecnologías que manejo
 
@@ -25,9 +22,9 @@ Tengo experiencia desarrollando pipelines de datos, modelos estadísticos, bases
 
 ## 🚧 Actualmente trabajando en
 
-📌 **[FeelBack - Aplicación Flask para análisis de sentimientos](https://github.com/Gerardo1909/FeelBack)**  
-FeelBack es un proyecto personal que consite en una aplicación web simple tipo chat construida con Flask y un modelo de HuggingFace que permite a los usuarios analizar el sentimiento de textos en tiempo real.
-
+📌 **[agentedefutbol - Agente LLM tipo chatbot integrado con Langchain y FastAPI para responder preguntas sobre fútbol](https://github.com/Gerardo1909/agentedefutbol)**  
+agentedefutbol es un proyecto en actual desarrollo que consiste en un agente tipo chatbot que responde preguntas con respecto al mundo del futbol en tiempo real y realiza 
+recomendaciones inteligentes sobre partidos y jugadores a seguir.
 
 ## 🌟 Proyectos destacados
 
@@ -36,7 +33,7 @@ FeelBack es un proyecto personal que consite en una aplicación web simple tipo 
 | 📊 [Diseño de datawarehouse y ETL para caso de negocio de pulseras inteligentes](https://github.com/Gerardo1909/tp_final_pulseras_inteligentes.git) | Implementación de gestión y análisis de datos utilizando un enfoque políglota, combinando un motor SQL y un motor NoSQL. Diseño de una arquitectura de inteligencia de negocios (BI), incluyendo un Data Warehouse y la construcción de dashboards para realizar análisis de datos. El trabajo integra procesos ETL, modelado dimensional de tablas, y técnicas de minería de datos, simulando un caso empresarial completo. |
 | ⚖️ [Análisis de equidad en el acceso a préstamos bancarios](https://github.com/Gerardo1909/tpfinal_equidad.git) | Análisis y mitigación de sesgos en modelos de clasificación aplicados al dataset [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data), con foco en cuestiones de equidad de género en la asignación de créditos bancarios. |
 | 🏀 [Predicción MVP NBA](https://github.com/Gerardo1909/proyecto_nba_mvp) | Análisis de datos históricos de la NBA para predecir ganadores del MVP usando aprendizaje supervisado. |
-| 🧊 [Cubo OLAP en Java](https://github.com/Gerardo1909/CuboOLAP_Java) | Librería para manipulación de cubos OLAP en Java, siguiendo buenas prácticas de POO y patrones de diseño. |
+| 💟 [FeelBack - Aplicación Flask para análisis de sentimientos](https://github.com/Gerardo1909/FeelBack) | Aplicación Python hecha en Flask que uitliza modelo de HuggingFace para realizar análisis de sentimientos en tiempo real, incluye dockerización para despliegue en producción. |
 
 ---
 
