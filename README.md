@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gerardo Toboso
+# Gerardo Toboso
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gerardo1909.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/Gerardo1909.svg?style=social&label=Follow)](https://github.com/Gerardo1909?tab=followers)
