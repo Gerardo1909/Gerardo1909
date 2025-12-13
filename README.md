@@ -1,9 +1,9 @@
-# Gerardo Toboso
+# Gerardo Toboso 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gerardo1909.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/Gerardo1909.svg?style=social&label=Follow)](https://github.com/Gerardo1909?tab=followers)
 
-**Analista de Datos** | Python + SQL | Analizando más allá de lo que muestra la información.  
+**Data Specialist** | Python + SQL | Analizando más allá de lo que muestra la información.  
 📍 Buenos Aires, Argentina  
 🎓 Estudiante avanzado en Ciencia de Datos (UNSAM) - **75% carrera** - Promedio: 9.00  
 📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
@@ -22,11 +22,10 @@ Soy analista de datos con experiencia práctica en diseño de pipelines ETL, mod
 
 ## 🚧 Actualmente trabajando en
 
-📌 **[agentedefutbol - Agente LLM tipo chatbot integrado con Langchain y FastAPI para responder preguntas sobre fútbol](https://github.com/Gerardo1909/agentedefutbol)**  
-agentedefutbol es un proyecto en actual desarrollo que consiste en un agente tipo chatbot que responde preguntas con respecto al mundo del futbol en tiempo real y realiza 
-recomendaciones inteligentes sobre partidos y jugadores a seguir.
+📌 **[ecommerce-reporting-etl - Pipeline ETL diseñado para procesar y analizar datos transaccionales de e-commerce, generando métricas de negocio críticas para la toma de decisiones estratégicas](https://github.com/Gerardo1909/ecommerce-reporting-etl.git)**  
+NovaMart, una empresa de e-commerce en crecimiento, enfrentaba desafíos significativos en la generación de reportes analíticos. El proceso manual de extracción y preparación de datos consumía 2 horas diarias del equipo de Business, resultando en información con 24 horas de antigüedad y vulnerable a errores humanos. Este sistema automatizado elimina la dependencia de procesos manuales, reduciendo el tiempo de procesamiento y mejorando la precisión de los datos.
 
-📌 **[MIT LIFT Lab & Argentina Collaborative Project 2025 - EVALUACIÓN DE índice de digitalización y desempeño de pequeñas y medianas empresas](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)**  
+📌 **[MIT LIFT Lab & Argentina Collaborative Project 2025 - Evaluación de índice de digitalización y desempeño de pequeñas y medianas empresas](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)**  
 Proyecto en colaboración con el Instituto Tecnológico de Massachusetts (MIT por sus siglas en inglés) que consiste en relevamiento de encuestas a pequeños locales para obtener información sobre economía y nivel de digitalización. En el repositorio se muestra el procesamiento realizado a la información cruda obtenida a través de las encuestas y la transformación aplicada utilizando técnicas de NLP y diferentes librerías de python para tratar datos geográficos y datos faltantes.
 
 ## 🌟 Proyectos destacados
