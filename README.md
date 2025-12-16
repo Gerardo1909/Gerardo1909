@@ -1,47 +1,70 @@
-# Gerardo Toboso 
+<div align="center">
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gerardo1909.repoName)
-[![GitHub followers](https://img.shields.io/github/followers/Gerardo1909.svg?style=social&label=Follow)](https://github.com/Gerardo1909?tab=followers)
+# Hi there, I'm Gerardo Toboso 👋
+### Data & Analytics Specialist | Data Engineering & Science
 
-**Data Specialist** | Python + SQL | Analizando más allá de lo que muestra la información.  
-📍 Buenos Aires, Argentina  
-🎓 Estudiante avanzado en Ciencia de Datos (UNSAM) - **75% carrera** - Promedio: 9.00  
-📫 Contacto: [gerardotoboso1909@gmail.com](mailto:gerardotoboso1909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gerardo-toboso-512a48290/)
+<a href="https://www.linkedin.com/in/gerardo-toboso-512048290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gerardotoboso1909@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Gerardo1909/ecommerce-reporting-etl">
+  <img src="https://img.shields.io/badge/Resume/CV-Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"/>
+</a>
 
-## 🧠 Sobre mí
+<br/><br/>
 
-Soy analista de datos con experiencia práctica en diseño de pipelines ETL, modelado de Data Warehouse y desarrollo de dashboards con Power BI. Manejo avanzado de Python (pandas, numpy, pydantic), SQL (PostgreSQL) y NoSQL (MongoDB). Tengo experiencia en integración de datos, control de calidad y despliegues en entornos con Docker y FastAPI. Inglés profesional (C2). Busco roles de Data Analyst / BI / ETL Developer en entornos de producto o consultora tecnológica.
+I bridge the gap between **raw data infrastructure** and **strategic business insights**. 
+Currently completing my **BSc in Data Science** (Top 10% - GPA 9.0) while building automated, scalable data solutions.
 
-## ⚙️ Tecnologías que manejo
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,docker,gcp,mysql,postgres,mongodb,redis,supabase,scikitlearn,notion,flask,fastapi,githubactions,vscode&perline=6" />
-  </a>
-</p>
-
-## 🚧 Actualmente trabajando en
-
-📌 **[ecommerce-reporting-etl - Pipeline ETL diseñado para procesar y analizar datos transaccionales de e-commerce, generando métricas de negocio críticas para la toma de decisiones estratégicas](https://github.com/Gerardo1909/ecommerce-reporting-etl.git)**  
-NovaMart, una empresa de e-commerce en crecimiento, enfrentaba desafíos significativos en la generación de reportes analíticos. El proceso manual de extracción y preparación de datos consumía 2 horas diarias del equipo de Business, resultando en información con 24 horas de antigüedad y vulnerable a errores humanos. Este sistema automatizado elimina la dependencia de procesos manuales, reduciendo el tiempo de procesamiento y mejorando la precisión de los datos.
-
-📌 **[MIT LIFT Lab & Argentina Collaborative Project 2025 - Evaluación de índice de digitalización y desempeño de pequeñas y medianas empresas](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)**  
-Proyecto en colaboración con el Instituto Tecnológico de Massachusetts (MIT por sus siglas en inglés) que consiste en relevamiento de encuestas a pequeños locales para obtener información sobre economía y nivel de digitalización. En el repositorio se muestra el procesamiento realizado a la información cruda obtenida a través de las encuestas y la transformación aplicada utilizando técnicas de NLP y diferentes librerías de python para tratar datos geográficos y datos faltantes.
-
-## 🌟 Proyectos destacados
-
-| Proyecto | Descripción |
-|---------|-------------|
-| 📊 [Diseño de datawarehouse y ETL para caso de negocio de pulseras inteligentes](https://github.com/Gerardo1909/tp_final_pulseras_inteligentes.git) | Implementación de gestión y análisis de datos utilizando un enfoque políglota, combinando un motor SQL y un motor NoSQL. Diseño de una arquitectura de inteligencia de negocios (BI), incluyendo un Data Warehouse y la construcción de dashboards para realizar análisis de datos. El trabajo integra procesos ETL, modelado dimensional de tablas, y técnicas de minería de datos, simulando un caso empresarial completo. |
-| ⚖️ [Análisis de equidad en el acceso a préstamos bancarios](https://github.com/Gerardo1909/tpfinal_equidad.git) | Análisis y mitigación de sesgos en modelos de clasificación aplicados al dataset [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data), con foco en cuestiones de equidad de género en la asignación de créditos bancarios. |
-| 🏀 [Predicción MVP NBA](https://github.com/Gerardo1909/proyecto_nba_mvp) | Análisis de datos históricos de la NBA para predecir ganadores del MVP usando aprendizaje supervisado. |
-| 💟 [FeelBack - Aplicación Flask para análisis de sentimientos](https://github.com/Gerardo1909/FeelBack) | Aplicación Python hecha en Flask que uitliza modelo de HuggingFace para realizar análisis de sentimientos en tiempo real, incluye dockerización para despliegue en producción. |
+</div>
 
 ---
 
-## 📈 Estadísticas de GitHub
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerardo1909&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Gerardo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo1909&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+I define myself as a **Data & Analytics Specialist** because I don't just move data; I make it useful. My approach combines the rigor of **Data Engineering** (robust pipelines, data quality, CI/CD) with the exploratory nature of **Data Science**.
+
+* 🔭 **Focus:** Designing automated ETL/ELT pipelines, Data Warehousing, and decision-ready dashboards.
+* 💼 **Experience:** Reduced manual reporting time by **97%** (from 2h to 3min) through automation in my latest project.
+* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **GCP**, and **DuckDB** for modern data stacks.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+*Focusing on modern Data Engineering and Analytics architecture.*
+
+| Domain | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Engineering & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **DevOps & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Analytics & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🛒 [NovaMart: Automated E-commerce Reporting Pipeline](https://github.com/Gerardo1909/ecommerce-reporting-etl)
+> *Solving the "stale data" problem for business stakeholders.*
+
+* **The Challenge:** Sales team spent 2 hours/day manually merging CSVs, leading to errors and delays.
+* **The Solution:** Built an end-to-end Python ETL pipeline with **Parquet optimization** and **Data Quality checks**.
+* **Impact:** 📉 **Reduced reporting latency by 97%** (Automated & Daily).
+
+#### 📊 [MIT LIFT Lab: SMB Digitalization Analysis](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)
+> *Collaboration with MIT researchers to analyze economic survival in Argentina.*
+
+* **The Tech:** NLP for survey processing, Geographic segmentation, and Statistical Analysis.
+* **Impact:** Identified trends contributing to recommendations for a potential **18% sales improvement** for local businesses.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerardo1909&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" alt="Gerardo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo1909&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</div>
