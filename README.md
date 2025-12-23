@@ -9,7 +9,7 @@
 <a href="mailto:gerardotoboso1909@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/Gerardo1909/ecommerce-reporting-etl">
+<a href="https://github.com/Gerardo1909/my_cv.git">
   <img src="https://img.shields.io/badge/Resume/CV-Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"/>
 </a>
 
