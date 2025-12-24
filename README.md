@@ -27,7 +27,7 @@ Currently completing my **BSc in Data Science** (Top 10% - GPA 9.0) while buildi
 I define myself as a **Data & Analytics Specialist** because I don't just move data; I make it useful. My approach combines the rigor of **Data Engineering** (robust pipelines, data quality, CI/CD) with the exploratory nature of **Data Science**.
 
 * 🔭 **Focus:** Designing automated ETL/ELT pipelines, Data Warehousing, and decision-ready dashboards.
-* 💼 **Experience:** Reduced manual reporting time by **97%** (from 2h to 3min) through automation in my latest project.
+* 💼 **Experience:** Diagnosed a **23.2% server error rate** across 1,000 requests, identifying 9 critical endpoints causing 3,700ms+ latency in my latest project.
 * 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **GCP**, and **DuckDB** for modern data stacks.
 
 ---
@@ -46,6 +46,13 @@ I define myself as a **Data & Analytics Specialist** because I don't just move d
 ---
 
 ### 🏆 Featured Projects
+
+#### 🔍 [Server Logs SQL Analysis: API Performance Diagnostics](https://github.com/Gerardo1909/server-logs-sql-analysis)
+> *Turning raw access logs into actionable infrastructure insights.*
+
+* **The Challenge:** Production API showing degraded performance with no visibility into root causes.
+* **The Solution:** Built a SQL-based diagnostic pipeline with **DuckDB** + interactive **Looker Studio** dashboard.
+* **Impact:** 📉 Identified **9 of 11 endpoints** with >20% error rate, pinpointing 3 critical services causing **35.78% of all 5xx errors**.
 
 #### 🛒 [NovaMart: Automated E-commerce Reporting Pipeline](https://github.com/Gerardo1909/ecommerce-reporting-etl)
 > *Solving the "stale data" problem for business stakeholders.*
