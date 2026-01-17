@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-I bridge the gap between **raw data infrastructure** and **strategic business insights**. 
-Currently completing my **BSc in Data Science** (Top 10% - GPA 9.0) while building automated, scalable data solutions.
+I bridge the gap between **raw data infrastructure** and **strategic business insights**.  
+Currently completing my **BSc in Data Science** (Top 10% – GPA 9.0 / 10.0) while building automated, scalable data platforms.
 
 </div>
 
@@ -24,48 +24,59 @@ Currently completing my **BSc in Data Science** (Top 10% - GPA 9.0) while buildi
 
 ### 🚀 About Me
 
-I define myself as a **Data & Analytics Specialist** because I don't just move data; I make it useful. My approach combines the rigor of **Data Engineering** (robust pipelines, data quality, CI/CD) with the exploratory nature of **Data Science**.
+I define myself as a **Data & Analytics Specialist** because I don't just move data — I make it **reliable, scalable, and decision-ready**.  
+My approach blends **Data Engineering rigor** (pipelines, orchestration, data modeling) with **Analytics & Business impact**.
 
-* 🔭 **Focus:** Designing automated ETL/ELT pipelines, Data Warehousing, and decision-ready dashboards.
-* 💼 **Experience:** Diagnosed a **23.2% server error rate** across 1,000 requests, identifying 9 critical endpoints causing 3,700ms+ latency in my latest project.
-* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **GCP**, and **DuckDB** for modern data stacks.
+* 🔭 **Focus:** Automated ETL/ELT pipelines, Data Lakes, Dimensional Modeling & BI-ready datasets  
+* 💼 **Experience:** Designed pipelines handling **millions of records per day**, with failure detection and observability built-in  
+* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **Cloud Data Lakes (AWS/GCP)** and **analytical engines (DuckDB)**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-*Focusing on modern Data Engineering and Analytics architecture.*
+*Focused on modern Data Engineering & Analytics architectures.*
 
 | Domain | Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Engineering & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
-| **DevOps & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Engineering & Cloud** | ![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Analytics & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
 
 ---
 
 ### 🏆 Featured Projects
 
+#### 🏭 [IoT Data ETL Pipeline – PySpark + Airflow + AWS S3](https://github.com/Gerardo1909/iot-etl-pipeline)
+> *From raw industrial sensor data to BI-ready dimensional models.*
+
+* **The Challenge:** Process **millions of industrial IoT readings daily** from an external API with reliability, scalability and low latency.
+* **The Solution:** Designed and implemented an end-to-end **ETL pipeline orchestrated with Apache Airflow**, using **PySpark** for distributed transformations and **AWS S3** as a scalable data lake.
+* **Architecture:** Raw → Processed → Analytics layers, **Parquet partitioning & versioning**, and a **star schema** optimized for BI.
+* **Impact:**
+  * ⚙️ **99.9% pipeline uptime** with failure detection in under **5 minutes**
+  * 🚀 **~50 GB/min processed** without memory issues
+  * 💾 Optimized query performance and **reduced storage costs** via Parquet & partitioning
+  * 📈 Designed for **>1 TB/day scalability**
+
+---
+
 #### 🔍 [Server Logs SQL Analysis: API Performance Diagnostics](https://github.com/Gerardo1909/server-logs-sql-analysis)
 > *Turning raw access logs into actionable infrastructure insights.*
 
 * **The Challenge:** Production API showing degraded performance with no visibility into root causes.
-* **The Solution:** Built a SQL-based diagnostic pipeline with **DuckDB** + interactive **Looker Studio** dashboard.
-* **Impact:** 📉 Identified **9 of 11 endpoints** with >20% error rate, pinpointing 3 critical services causing **35.78% of all 5xx errors**.
+* **The Solution:** SQL-based diagnostic pipeline using **DuckDB** + interactive **Looker Studio** dashboards.
+* **Impact:** 📉 Identified **9 of 11 endpoints** with >20% error rate, pinpointing services causing **35.78% of all 5xx errors**.
+
+---
 
 #### 🛒 [NovaMart: Automated E-commerce Reporting Pipeline](https://github.com/Gerardo1909/ecommerce-reporting-etl)
-> *Solving the "stale data" problem for business stakeholders.*
+> *Solving the “stale data” problem for business stakeholders.*
 
-* **The Challenge:** Sales team spent 2 hours/day manually merging CSVs, leading to errors and delays.
-* **The Solution:** Built an end-to-end Python ETL pipeline with **Parquet optimization** and **Data Quality checks**.
-* **Impact:** 📉 **Reduced reporting latency by 97%** (Automated & Daily).
-
-#### 📊 [MIT LIFT Lab: SMB Digitalization Analysis](https://github.com/Gerardo1909/mit_lift_lab_analisis_adelift)
-> *Collaboration with MIT researchers to analyze economic survival in Argentina.*
-
-* **The Tech:** NLP for survey processing, Geographic segmentation, and Statistical Analysis.
-* **Impact:** Identified trends contributing to recommendations for a potential **18% sales improvement** for local businesses.
+* **The Challenge:** Sales team spent ~2 hours/day manually merging CSVs.
+* **The Solution:** End-to-end Python ETL with **data quality checks** and **Parquet optimization**.
+* **Impact:** 📉 **97% reduction in reporting latency** (fully automated, daily refresh).
 
 ---
 
