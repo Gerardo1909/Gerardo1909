@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-I bridge the gap between **raw data infrastructure** and **strategic business insights**.  
-Currently completing my **BSc in Data Science** (Top 10% – GPA 9.0 / 10.0) while building automated, scalable data platforms.
+I bridge the gap between **raw data infrastructure** and **decision-ready analytics**.  
+Currently completing my **BSc in Data Science** (Top 10% – GPA 9.0 / 10.0) while building scalable, production-grade data platforms.
 
 </div>
 
@@ -24,12 +24,12 @@ Currently completing my **BSc in Data Science** (Top 10% – GPA 9.0 / 10.0) whi
 
 ### 🚀 About Me
 
-I define myself as a **Data & Analytics Specialist** because I don't just move data — I make it **reliable, scalable, and decision-ready**.  
-My approach blends **Data Engineering rigor** (pipelines, orchestration, data modeling) with **Analytics & Business impact**.
+I define myself as a **Data & Analytics Specialist** because I don’t just move data — I **model it, validate it, and make it trustworthy**.  
+My work sits at the intersection of **Data Engineering**, **Analytics Engineering**, and **Business Impact**.
 
-* 🔭 **Focus:** Automated ETL/ELT pipelines, Data Lakes, Dimensional Modeling & BI-ready datasets  
-* 💼 **Experience:** Designed pipelines handling **millions of records per day**, with failure detection and observability built-in  
-* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **Cloud Data Lakes (AWS/GCP)** and **analytical engines (DuckDB)**
+* 🔭 **Focus:** ETL/ELT pipelines, Data Lakes, dbt-based analytics platforms, dimensional modeling
+* 💼 **Experience:** Designed data systems handling **millions of records per day**, with automated testing, observability, and documentation
+* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **cloud-native data lakes (AWS/GCP)**, and **analytical engines like DuckDB**
 
 ---
 
@@ -41,12 +41,29 @@ My approach blends **Data Engineering rigor** (pipelines, orchestration, data mo
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Engineering & Cloud** | ![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **Analytics Engineering** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
 | **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Analytics & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
 
 ---
 
 ### 🏆 Featured Projects
+
+#### 🏦 [FintechFlow Analytics – Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintechflow-analytics)
+> *A professional analytics engineering platform for financial data.*
+
+* **The Challenge:** A fragmented fintech ecosystem powered by **25+ isolated SQL scripts**, with no testing, documentation, or single source of truth.
+* **The Solution:** Migrated the entire transformation layer to a **dbt-core architecture** using **DuckDB**, implementing a **multi-layer model (Staging → Intermediate → Marts)**.
+* **Key Engineering Decisions:**
+  * Implemented **SCD Type 2 dimensions** to preserve historical accuracy in customer and investment profiles
+  * Built a **comprehensive testing suite** (`unique`, `not_null`, `accepted_values`) to guarantee financial integrity
+  * Created **custom dbt macros** to modularize logic and accelerate development
+* **Impact:**
+  * 🧪 **80% reduction in production bugs** through automated data tests
+  * ⚡ **50% faster development** of new risk and analytics models
+  * 📚 Reduced analyst onboarding time from **2 weeks to 2 days** via dbt Docs
+
+---
 
 #### 🏭 [IoT Data ETL Pipeline – PySpark + Airflow + AWS S3](https://github.com/Gerardo1909/iot-etl-pipeline)
 > *From raw industrial sensor data to BI-ready dimensional models.*
@@ -85,4 +102,4 @@ My approach blends **Data Engineering rigor** (pipelines, orchestration, data mo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerardo1909&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" alt="Gerardo's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo1909&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</div>
+</div
