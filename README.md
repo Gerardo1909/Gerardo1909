@@ -1,105 +1,66 @@
-<div align="center">
+# Hi, I'm Gerardo Toboso 👋
 
-# Hi there, I'm Gerardo Toboso 👋
-### Data & Analytics Specialist | Data Engineering & Science
+📍 **Buenos aires ↔ Global** | 🏗️ **Data & Backend Systems Architect** | 📊 **Causal Inference Specialist**
 
-<a href="https://www.linkedin.com/in/gerardo-toboso-512048290/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gerardotoboso1909@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Gerardo1909/my_cv.git">
-  <img src="https://img.shields.io/badge/Resume/CV-Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"/>
-</a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyMC](https://img.shields.io/badge/-PyMC-013243?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<br/><br/>
+> Bridging the gap between robust data infrastructure and statistical rigor. I build systems that don't just move data, but ensure it is causal, reliable, and decision-ready.
 
-I bridge the gap between **raw data infrastructure** and **decision-ready analytics**.  
-Currently completing my **BSc in Data Science** (Top 10% – GPA 9.0 / 10.0) while building scalable, production-grade data platforms.
+🚀 **[Bayes-Eval-Core](https://github.com/Gerardo1909/repo)** (Featured) – An automated code evaluation engine using Information Theory (KL-Divergence) to grade probabilistic models in < 24h.
 
-</div>
+## Current Projects
 
----
+- 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintechflow-analytics)** - data transformation dbt project for handling banking data about transactions, users and investing.
+- ✴️ **[IoT Data ETL Pipeline](https://github.com/Gerardo1909/iot-etl-pipeline)** - batch pipeline to process IoT sensor data using pyspark and airflow orchestration.
+- 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
+- 🏩 **[Booking BA scraper](https://github.com/Gerardo1909/booking-ba-scraper)** - playwright web scraper used to extract hotel pricing data in Buenos Aires.
+- 🏪​ **[Ecommerce reporting etl](https://github.com/Gerardo1909/ecommerce-reporting-etl)** - etl pipeline to generate quick business insights about ecommerce data.
 
-### 🚀 About Me
+## GitHub Activity
 
-I define myself as a **Data & Analytics Specialist** because I don’t just move data — I **model it, validate it, and make it trustworthy**.  
-My work sits at the intersection of **Data Engineering**, **Analytics Engineering**, and **Business Impact**.
+![GitHub Contribution Graph](https://ghchart.rshah.org/Gerardo1909)
 
-* 🔭 **Focus:** ETL/ELT pipelines, Data Lakes, dbt-based analytics platforms, dimensional modeling
-* 💼 **Experience:** Designed data systems handling **millions of records per day**, with automated testing, observability, and documentation
-* 🌱 **Learning:** Deepening my knowledge in **Apache Airflow**, **cloud-native data lakes (AWS/GCP)**, and **analytical engines like DuckDB**
+## What I'm Doing
 
----
+- **Automating Engineering workflows** - Developing tools that eliminate manual code reviews for statistical models.
+- **Deep-diving into Causal Inference** - Applying Bayesian frameworks to solve real-world business attribution problems.
+- **Writing technical insights** - Simplifying complex systems and data engineering concepts on [Medium/Substack].
+- **Teaching at Scale** - Leading the Causal Inference track, translating math into scalable software.
 
-### 🛠️ Tech Stack & Tools
+## Latest Technical Writing
 
-*Focused on modern Data Engineering & Analytics architectures.*
+- [Beyond Linters: Automating Code Reviews with Kullback-Leibler Divergence](https://medium.com/@gerardotoboso1909/beyond-linters-automating-code-reviews-with-kullback-leibler-divergence-e5b9ed7fa9d3)
 
-| Domain | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Engineering & Cloud** | ![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
-| **Analytics Engineering** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
-| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Analytics & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-toboso-512048290/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gerardotoboso1909)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardotoboso1909l@gmail.com)
 
 ---
 
-### 🏆 Featured Projects
+### Recognition & Stats
 
-#### 🏦 [FintechFlow Analytics – Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintechflow-analytics)
-> *A professional analytics engineering platform for financial data.*
+- **Technical Lead and Backend Developer** at Bayes Plurinacional for Bayesian Causal Inference.
+- Developed internal tools used by **50+** engineers/students daily.
+- Built and shipped **10+** production-grade data pipelines.
 
-* **The Challenge:** A fragmented fintech ecosystem powered by **25+ isolated SQL scripts**, with no testing, documentation, or single source of truth.
-* **The Solution:** Migrated the entire transformation layer to a **dbt-core architecture** using **DuckDB**, implementing a **multi-layer model (Staging → Intermediate → Marts)**.
-* **Key Engineering Decisions:**
-  * Implemented **SCD Type 2 dimensions** to preserve historical accuracy in customer and investment profiles
-  * Built a **comprehensive testing suite** (`unique`, `not_null`, `accepted_values`) to guarantee financial integrity
-  * Created **custom dbt macros** to modularize logic and accelerate development
-* **Impact:**
-  * 🧪 **80% reduction in production bugs** through automated data tests
-  * ⚡ **50% faster development** of new risk and analytics models
-  * 📚 Reduced analyst onboarding time from **2 weeks to 2 days** via dbt Docs
+### Philosophy
 
----
+> "Data without causality is just noise." I focus on building tools that provide clarity, automate the mundane, and scale the expert's intuition.
 
-#### 🏭 [IoT Data ETL Pipeline – PySpark + Airflow + AWS S3](https://github.com/Gerardo1909/iot-etl-pipeline)
-> *From raw industrial sensor data to BI-ready dimensional models.*
+<details>
+<summary>Random Facts</summary>
 
-* **The Challenge:** Process **millions of industrial IoT readings daily** from an external API with reliability, scalability and low latency.
-* **The Solution:** Designed and implemented an end-to-end **ETL pipeline orchestrated with Apache Airflow**, using **PySpark** for distributed transformations and **AWS S3** as a scalable data lake.
-* **Architecture:** Raw → Processed → Analytics layers, **Parquet partitioning & versioning**, and a **star schema** optimized for BI.
-* **Impact:**
-  * ⚙️ **99.9% pipeline uptime** with failure detection in under **5 minutes**
-  * 🚀 **~50 GB/min processed** without memory issues
-  * 💾 Optimized query performance and **reduced storage costs** via Parquet & partitioning
-  * 📈 Designed for **>1 TB/day scalability**
+- I prefer a clean CLI over a complex GUI any day.
+- Can explain MCMC while making a decent espresso.
+- Fan of "Software Engineering at Google" practices.
+- Currently reading: "The Book of Why" by Judea Pearl.
 
----
-
-#### 🔍 [Server Logs SQL Analysis: API Performance Diagnostics](https://github.com/Gerardo1909/server-logs-sql-analysis)
-> *Turning raw access logs into actionable infrastructure insights.*
-
-* **The Challenge:** Production API showing degraded performance with no visibility into root causes.
-* **The Solution:** SQL-based diagnostic pipeline using **DuckDB** + interactive **Looker Studio** dashboards.
-* **Impact:** 📉 Identified **9 of 11 endpoints** with >20% error rate, pinpointing services causing **35.78% of all 5xx errors**.
-
----
-
-#### 🛒 [NovaMart: Automated E-commerce Reporting Pipeline](https://github.com/Gerardo1909/ecommerce-reporting-etl)
-> *Solving the “stale data” problem for business stakeholders.*
-
-* **The Challenge:** Sales team spent ~2 hours/day manually merging CSVs.
-* **The Solution:** End-to-end Python ETL with **data quality checks** and **Parquet optimization**.
-* **Impact:** 📉 **97% reduction in reporting latency** (fully automated, daily refresh).
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerardo1909&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" alt="Gerardo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo1909&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</div
+</details>
