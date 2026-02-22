@@ -16,11 +16,13 @@
 
 ## Current Projects
 
+- 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
+- 🗣️​ **[HN Analytical Platform](https://github.com/Gerardo1909/hn-analytical-platform)** - Batch data lake used to ingest data from HackerNews public API, process it and gain some insights using NLP.
 - 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintechflow-analytics)** - data transformation dbt project for handling banking data about transactions, users and investing.
 - ✴️ **[IoT Data ETL Pipeline](https://github.com/Gerardo1909/iot-etl-pipeline)** - batch pipeline to process IoT sensor data using pyspark and airflow orchestration.
-- 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
 - 🏩 **[Booking BA scraper](https://github.com/Gerardo1909/booking-ba-scraper)** - playwright web scraper used to extract hotel pricing data in Buenos Aires.
 - 🏪​ **[Ecommerce reporting etl](https://github.com/Gerardo1909/ecommerce-reporting-etl)** - etl pipeline to generate quick business insights about ecommerce data.
+- 🔎​ **[Web serve logs analysis](https://github.com/Gerardo1909/server-logs-sql-analysis)** - diagnosing the performance and availability of a web server using SQL analysis on 1,000 access logs.
 
 ## GitHub Activity
 
