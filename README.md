@@ -37,6 +37,7 @@
 
 ## Latest Technical Writing
 
+- [Why Data Engineers must understand Causality](https://medium.com/@gerardotoboso1909/why-data-engineers-must-understand-causality-6b51060a04b1)
 - [Beyond Linters: Automating Code Reviews with Kullback-Leibler Divergence](https://medium.com/@gerardotoboso1909/beyond-linters-automating-code-reviews-with-kullback-leibler-divergence-e5b9ed7fa9d3)
 
 ## Connect
