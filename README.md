@@ -22,7 +22,7 @@
 - ✴️ **[IoT Data ETL Pipeline](https://github.com/Gerardo1909/iot-etl-pipeline)** - batch pipeline to process IoT sensor data using pyspark and airflow orchestration.
 - 🏩 **[Booking BA scraper](https://github.com/Gerardo1909/booking-ba-scraper)** - playwright web scraper used to extract hotel pricing data in Buenos Aires.
 - 🏪​ **[Ecommerce reporting etl](https://github.com/Gerardo1909/ecommerce-reporting-etl)** - etl pipeline to generate quick business insights about ecommerce data.
-- 🔎​ **[Web serve logs analysis](https://github.com/Gerardo1909/server-logs-sql-analysis)** - diagnosing the performance and availability of a web server using SQL analysis on 1,000 access logs.
+- 🔎​ **[Web server logs analysis](https://github.com/Gerardo1909/server-logs-sql-analysis)** - diagnosing the performance and availability of a web server using SQL analysis on 1,000 access logs.
 
 ## GitHub Activity
 
@@ -32,7 +32,7 @@
 
 - **Automating Engineering workflows** - Developing tools that eliminate manual code reviews for statistical models.
 - **Deep-diving into Causal Inference** - Applying Bayesian frameworks to solve real-world business attribution problems.
-- **Writing technical insights** - Simplifying complex systems and data engineering concepts on [Medium/Substack].
+- **Writing technical insights** - Simplifying complex systems and data engineering concepts on Medium.
 - **Teaching at Scale** - Leading the Causal Inference track, translating math into scalable software.
 
 ## Latest Technical Writing
