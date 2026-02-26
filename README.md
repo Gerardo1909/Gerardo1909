@@ -12,7 +12,7 @@
 
 > Bridging the gap between robust data infrastructure and statistical rigor. I build systems that don't just move data, but ensure it is causal, reliable, and decision-ready.
 
-🚀 **[Bayes-Eval-Core](https://github.com/Gerardo1909/repo)** (Featured) – An automated code evaluation engine using Information Theory (KL-Divergence) to grade probabilistic models in < 24h.
+🚀 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** (Featured) – bayesian causal inference system for price optimization and profit maximization in eCommerce.
 
 ## Current Projects
 
