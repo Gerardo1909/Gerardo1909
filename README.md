@@ -12,10 +12,11 @@
 
 > Bridging the gap between robust data infrastructure and statistical rigor. I build systems that don't just move data, but ensure it is causal, reliable, and decision-ready.
 
-🚀 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** (Featured) – bayesian causal inference system for price optimization and profit maximization in eCommerce.
+𝟏𝟗 **[nineteen](https://github.com/Gerardo1909/nineteen)** (Featured) – local personal assistant with a claude-like interface to run on pc-only machines.
 
 ## Current Projects
 
+- 💸 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** – bayesian causal inference system for price optimization and profit maximization in eCommerce.
 - 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
 - 🗣️​ **[HN Analytical Platform](https://github.com/Gerardo1909/hn-analytical-platform)** - Batch data lake used to ingest data from HackerNews public API, process it and gain some insights using NLP.
 - 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintech-flow-dbt)** - data transformation dbt project for handling banking data about transactions, users and investing.
@@ -39,6 +40,7 @@
 
 - [Why Data Engineers must understand Causality](https://medium.com/@gerardotoboso1909/why-data-engineers-must-understand-causality-6b51060a04b1)
 - [Beyond Linters: Automating Code Reviews with Kullback-Leibler Divergence](https://medium.com/@gerardotoboso1909/beyond-linters-automating-code-reviews-with-kullback-leibler-divergence-e5b9ed7fa9d3)
+- [From \\xa0230,821 to a Clean Float: A Deep Dive into Scraping and Structuring Booking.com Data](https://medium.com/@gerardotoboso1909/from-xa0230-821-to-a-clean-float-a-deep-dive-into-scraping-and-structuring-booking-com-data-5ecb7b7fbbb4)
 
 ## Connect
 
