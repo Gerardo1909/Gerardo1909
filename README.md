@@ -17,11 +17,14 @@
 ## Current Projects
 
 - 💸 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** – bayesian causal inference system for price optimization and profit maximization in eCommerce.
+- ⚙️ **[Causal Data Quality Auditor (CLI)](https://github.com/Gerardo1909/causal-data-quality-auditor)** – CLI tool used to detect data drift between training and prod datasets.
 - 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
+- 🎢 **[Subscription Revenue Modelling (dbt)](https://github.com/Gerardo1909/subscription-revenue-modelling-dbt)** - Analytical modelling of Annual Recurring Revenue (ARR) for a subscription-based business.
 - 🗣️​ **[HN Analytical Platform](https://github.com/Gerardo1909/hn-analytical-platform)** - Batch data lake used to ingest data from HackerNews public API, process it and gain some insights using NLP.
 - 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintech-flow-dbt)** - data transformation dbt project for handling banking data about transactions, users and investing.
 - ✴️ **[IoT Data ETL Pipeline](https://github.com/Gerardo1909/iot-etl-pipeline)** - batch pipeline to process IoT sensor data using pyspark and airflow orchestration.
 - 🏩 **[Booking BA scraper](https://github.com/Gerardo1909/booking-ba-scraper)** - playwright web scraper used to extract hotel pricing data in Buenos Aires.
+- 🏩 **[Hotel Lakehouse Pipeline - Serverless Batch Processing on AWS](https://github.com/Gerardo1909/hotel-serverless-pipeline)** - serverless batch pipeline used to transform hotel pricing data in Buenos Aires.
 - 🏪​ **[Ecommerce reporting etl](https://github.com/Gerardo1909/ecommerce-reporting-etl)** - etl pipeline to generate quick business insights about ecommerce data.
 - 🔎​ **[Web server logs analysis](https://github.com/Gerardo1909/server-logs-sql-analysis)** - diagnosing the performance and availability of a web server using SQL analysis on 1,000 access logs.
 
@@ -39,8 +42,8 @@
 ## Latest Technical Writing
 
 - [Why Data Engineers must understand Causality](https://medium.com/@gerardotoboso1909/why-data-engineers-must-understand-causality-6b51060a04b1)
-- [Beyond Linters: Automating Code Reviews with Kullback-Leibler Divergence](https://medium.com/@gerardotoboso1909/beyond-linters-automating-code-reviews-with-kullback-leibler-divergence-e5b9ed7fa9d3)
-- [From \\xa0230,821 to a Clean Float: A Deep Dive into Scraping and Structuring Booking.com Data](https://medium.com/@gerardotoboso1909/from-xa0230-821-to-a-clean-float-a-deep-dive-into-scraping-and-structuring-booking-com-data-5ecb7b7fbbb4)
+- [The Architecture of Silence: Why Your RAG System Needs to Learn to Say “I Don’t Know”](https://medium.com/@gerardotoboso1909/the-architecture-of-silence-why-your-rag-system-needs-to-learn-to-say-i-dont-know-477f0c091132)
+- [A Broken Window: Why Software Entropy is the Silent Killer of Data Pipelines](https://medium.com/@gerardotoboso1909/a-broken-window-why-software-entropy-is-the-silent-killer-of-data-pipelines-edc5c87c0d87)
 
 ## Connect
 
