@@ -1,43 +1,46 @@
 # Hi, I'm Gerardo Toboso 👋
 
-📍 **Buenos aires ↔ Global** | 🏗️ **Data & Backend Systems Architect** | 📊 **Causal Inference Specialist**
+📍 **Buenos Aires Province, Argentina · Remote** | **Fullstack Software Engineer** | **Cloud & Serverless Architect** | **Data & Causal Inference**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyMC](https://img.shields.io/badge/-PyMC-013243?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> Bridging the gap between robust data infrastructure and statistical rigor. I build systems that don't just move data, but ensure it is causal, reliable, and decision-ready.
+> I build systems that stay fast, secure, and cost-aware under pressure — from fintech workflows and real-time architectures to data pipelines and causal decision engines.
 
-𝟏𝟗 **[nineteen](https://github.com/Gerardo1909/nineteen)** (Featured) – local personal assistant with a claude-like interface to run on pc-only machines.
+## Now
 
-## Current Projects
+- **Fullstack Software Engineer | Cloud & Serverless Architect** at a stealth US mortgage platform.
+- Reduced redundant backend calls by **22M invocations per week**, cutting AWS Lambda and DynamoDB costs.
+- Secured **71M historical records**, redacting plaintext OAuth/API credentials and adding automated safeguards.
+- Replaced polling with **API Gateway WebSockets + DynamoDB Streams** for sub-2s updates on critical loan events.
+- Orchestrated **50+ AWS Lambdas** and **30+ external APIs** to reduce loan closing times from **30 days to under 7**.
+- Built resilient serverless backends with **TypeScript, SQS, Cognito, and React** for a platform serving **200+ clients**.
 
-- 💸 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** – bayesian causal inference system for price optimization and profit maximization in eCommerce.
+## Featured
+
+𝟏𝟗 **[nineteen](https://github.com/Gerardo1909/nineteen)** (Featured) – local personal assistant with a claude-like interface for pc-only machines.
+
+## Selected Projects
+
+- 💸 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** – Bayesian causal inference system for price optimization and profit maximization in eCommerce.
 - ⚙️ **[Causal Data Quality Auditor (CLI)](https://github.com/Gerardo1909/causal-data-quality-auditor)** – CLI tool used to detect data drift between training and prod datasets.
-- 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** - RAG agent oriented in answering bayesian causal inference questions.
-- 🎢 **[Subscription Revenue Modelling (dbt)](https://github.com/Gerardo1909/subscription-revenue-modelling-dbt)** - Analytical modelling of Annual Recurring Revenue (ARR) for a subscription-based business.
-- 🗣️​ **[HN Analytical Platform](https://github.com/Gerardo1909/hn-analytical-platform)** - Batch data lake used to ingest data from HackerNews public API, process it and gain some insights using NLP.
-- 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintech-flow-dbt)** - data transformation dbt project for handling banking data about transactions, users and investing.
-- ✴️ **[IoT Data ETL Pipeline](https://github.com/Gerardo1909/iot-etl-pipeline)** - batch pipeline to process IoT sensor data using pyspark and airflow orchestration.
-- 🏩 **[Booking BA scraper](https://github.com/Gerardo1909/booking-ba-scraper)** - playwright web scraper used to extract hotel pricing data in Buenos Aires.
-- 🏩 **[Hotel Lakehouse Pipeline - Serverless Batch Processing on AWS](https://github.com/Gerardo1909/hotel-serverless-pipeline)** - serverless batch pipeline used to transform hotel pricing data in Buenos Aires.
-- 🏪​ **[Ecommerce reporting etl](https://github.com/Gerardo1909/ecommerce-reporting-etl)** - etl pipeline to generate quick business insights about ecommerce data.
-- 🔎​ **[Web server logs analysis](https://github.com/Gerardo1909/server-logs-sql-analysis)** - diagnosing the performance and availability of a web server using SQL analysis on 1,000 access logs.
+- 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** – RAG agent oriented around Bayesian causal inference questions.
+- 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintech-flow-dbt)** – data transformation project for banking, transactions, users, and investing.
+- ✴️ **[Hotel Lakehouse Pipeline - Serverless Batch Processing on AWS](https://github.com/Gerardo1909/hotel-serverless-pipeline)** – serverless batch pipeline for hotel pricing data in Buenos Aires.
+- 🗣️ **[HN Analytical Platform](https://github.com/Gerardo1909/hn-analytical-platform)** – batch data lake ingesting Hacker News public API data and extracting NLP insights.
+- 🎢 **[Subscription Revenue Modelling (dbt)](https://github.com/Gerardo1909/subscription-revenue-modelling-dbt)** – analytical modelling of Annual Recurring Revenue (ARR) for a subscription business.
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Gerardo1909)
-
-## What I'm Doing
-
-- **Automating Engineering workflows** - Developing tools that eliminate manual code reviews for statistical models.
-- **Deep-diving into Causal Inference** - Applying Bayesian frameworks to solve real-world business attribution problems.
-- **Writing technical insights** - Simplifying complex systems and data engineering concepts on Medium.
-- **Teaching at Scale** - Leading the Causal Inference track, translating math into scalable software.
 
 ## Latest Technical Writing
 
@@ -49,7 +52,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-toboso-512048290/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gerardotoboso1909)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardotoboso1909l@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardotoboso1909@gmail.com)
 
 ---
 
@@ -61,7 +64,7 @@
 
 ### Philosophy
 
-> "Data without causality is just noise." I focus on building tools that provide clarity, automate the mundane, and scale the expert's intuition.
+> Complexity is the enemy. I document decisions, measure impact, and build systems that are reliable by default.
 
 <details>
 <summary>Random Facts</summary>
