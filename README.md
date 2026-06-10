@@ -1,6 +1,6 @@
 # Hi, I'm Gerardo Toboso 👋
 
-📍 **Buenos Aires Province, Argentina · Remote** | **Fullstack Software Engineer** | **Cloud & Serverless Architect** | **Data & Causal Inference**
+📍 **Buenos Aires Province, Argentina · Remote** | **Data & Cloud Engineer** | **E2E Fintech Solutions** | **Data & Causal Inference**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 
 ## Now
 
-- **Fullstack Software Engineer | Cloud & Serverless Architect** at a stealth US mortgage platform.
+- **Fullstack Software Engineer | Cloud & Serverless Architect** at Figure.
 - Reduced redundant backend calls by **22M invocations per week**, cutting AWS Lambda and DynamoDB costs.
 - Secured **71M historical records**, redacting plaintext OAuth/API credentials and adding automated safeguards.
 - Replaced polling with **API Gateway WebSockets + DynamoDB Streams** for sub-2s updates on critical loan events.
@@ -30,7 +30,6 @@
 
 ## Selected Projects
 
-- 💸 **[priceinsight](https://github.com/Gerardo1909/priceinsight)** – Bayesian causal inference system for price optimization and profit maximization in eCommerce.
 - ⚙️ **[Causal Data Quality Auditor (CLI)](https://github.com/Gerardo1909/causal-data-quality-auditor)** – CLI tool used to detect data drift between training and prod datasets.
 - 🧠 **[Causalito](https://github.com/Gerardo1909/causalito)** – RAG agent oriented around Bayesian causal inference questions.
 - 🏦 **[Modern Banking Analytics Platform (dbt)](https://github.com/Gerardo1909/fintech-flow-dbt)** – data transformation project for banking, transactions, users, and investing.
